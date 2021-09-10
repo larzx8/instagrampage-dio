@@ -1,3 +1,3 @@
 #
 
-Esse é o repositório da aula de Flexbox, na qual vamos fazer a interface de login do Instagram! Promotivo pela Digital Innovation One
+Repositório da aula de Flexbox, reconstruindo a interface de login do Instagram! Curso promotivo pela Digital Innovation One com a professora https://github.com/SpruceGabriela
